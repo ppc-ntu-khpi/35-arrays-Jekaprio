@@ -2,7 +2,7 @@ package domain;
 
 /**
  *
- * @author 888Daniel888
+ * @author Jekaprio
  */
 public interface ExerciseSSS {
     int[] symmetricArray();
