@@ -7,7 +7,7 @@ package domain;
 
 /**
  *
- * @author 888Daniel888
+ * @author Jekaprio
  */
 class length {
     
