@@ -2,7 +2,7 @@ package domain;
 
 /**
  *
- * @author 888Daniel888
+ * @author Jekaprio
  */
 public final class Exercise implements ExerciseSSS {
     private final int[] numbers;
